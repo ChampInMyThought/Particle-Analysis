@@ -2,8 +2,11 @@
 
 ## 🚀 General Usage
 To use the macros, follow these steps:
-1.) Open the "Plugins" menu and select "New" and then "Macro."\n
-2.) Copy and paste the text from the relevant command files.\n
+
+1.) Open the "Plugins" menu and select "New" and then "Macro."
+
+2.) Copy and paste the text from the relevant command files.
+
 3.) Click "Run."
 
 ## Single Run with Macro
@@ -15,7 +18,8 @@ We recommend using this function as an experimental test to observe the data bef
 ## Batch Run with Macro
 During a batch run with the macro, the program will prompt you for two folders:
 
-1.) The folder where all the images are located\n
+1.) The folder where all the images are located
+
 2.) The folder where you want to save the results (both .tif masks and .csv areas).
 
 ## Q&A
