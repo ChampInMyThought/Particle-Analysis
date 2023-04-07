@@ -1,4 +1,4 @@
-run("Set Scale...", "distance=1024 known=125 unit=unit");
+run("Set Scale...", "distance=1024 known=125 unit=µm");
 run("8-bit");
 run("Subtract Background...", "rolling=80");
 setAutoThreshold("Default dark");

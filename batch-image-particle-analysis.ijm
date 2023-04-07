@@ -6,7 +6,7 @@ setBatchMode(true);
 for (i=0; i<list.length; i++) {
 	showProgress(i+1, list.length);
  	open(dir1+list[i]);
-	run("Set Scale...", "distance=1024 known=125 unit=unit");
+	run("Set Scale...", "distance=1024 known=125 unit=µm");
  	run("8-bit");
 	run("Subtract Background...", "rolling=80");
 	setAutoThreshold("Default dark");
