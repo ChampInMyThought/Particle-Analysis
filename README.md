@@ -25,7 +25,7 @@ During a batch run with the macro, the program will prompt you for two folders:
 
 ## For exception cases, how to calculate manually ?
 
-You may want to check out the YouTube video titled "Measure Droplet Diameter Using ImageJ Software - See How Wand Tool Did Wonder😮😮😮 - ImageJ" by K&M Tutors. In the video, the presenter provides a clear demonstration of how to use the magic wand, fill, and measure functions in ImageJ software. 
+You may want to check out the YouTube video titled ["Measure Droplet Diameter Using ImageJ Software - See How Wand Tool Did Wonder😮😮😮 - ImageJ"](https://www.youtube.com/watch?v=4U_HxYXKJtY&ab_channel=K%26MTutors) by K&M Tutors. In the video, the presenter provides a clear demonstration of how to use the magic wand, fill, and measure functions in ImageJ software. 
 
 Here's the link to the video: https://www.youtube.com/watch?v=4U_HxYXKJtY&ab_channel=K%26MTutors
 
